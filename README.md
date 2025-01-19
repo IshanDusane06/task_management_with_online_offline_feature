@@ -6,6 +6,9 @@ A new Flutter project.
 <img width="300" alt="Screenshot 2025-01-12 at 6 36 12 PM" src="https://github.com/user-attachments/assets/560da7dd-be4a-4bb0-8119-8b47ea700943" />
 <img width="300" alt="Screenshot 2025-01-12 at 6 36 12 PM" src="https://github.com/user-attachments/assets/b121ae76-a515-416a-a368-f2a2267c7660" />
 
+## Video links
+https://drive.google.com/drive/folders/1Bddcw71zxHQoBv8DfZdTBlEG3lmWufOQ?usp=sharing
+
 ## Create a Firebase app
 1. Do to you Firebase console and follow the steps to create a new app
 2. Upload the google-services.json which you will get while creating an app to the ```<our_project_name>/android/app/google-services.json```
